@@ -1,1 +1,1 @@
-№ GameUnity3D - это моя игра!
+# GameUnity3D - это моя игра!
